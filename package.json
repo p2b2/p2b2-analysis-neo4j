@@ -1,0 +1,23 @@
+{
+  "name": "p2b2-neo4j-analysis",
+  "version": "0.0.1",
+  "description": "Provides functions to run graph analysis on the neo4j ethereum graph.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "blockchain",
+    "ethereum",
+    "data",
+    "graph",
+    "analysis"
+  ],
+  "author": "Simon Buchholz",
+  "license": "MIT",
+  "dependencies": {
+    "es6-promise": "^4.1.0",
+    "neo4j-driver": "^1.3.0",
+    "winston": "^2.3.1"
+  }
+}
