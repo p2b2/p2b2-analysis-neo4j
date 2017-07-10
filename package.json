@@ -1,6 +1,6 @@
 {
-  "name": "p2b2-neo4j-analysis",
-  "version": "0.0.1",
+  "name": "p2b2-analysis-neo4j",
+  "version": "0.0.3",
   "description": "Provides functions to run graph analysis on the neo4j ethereum graph.",
   "main": "index.js",
   "scripts": {
@@ -19,5 +19,13 @@
     "es6-promise": "^4.1.0",
     "neo4j-driver": "^1.3.0",
     "winston": "^2.3.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/p2b2/p2b2-analysis-neo4j.git"
+  },
+  "bugs": {
+    "url": "https://github.com/p2b2/p2b2-analysis-neo4j/issues"
+  },
+  "homepage": "https://github.com/p2b2/p2b2-analysis-neo4j#readme"
 }
